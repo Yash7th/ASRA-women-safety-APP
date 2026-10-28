@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "38945640776",
+    "project_id": "asra-safety-app",
+    "storage_bucket": "asra-safety-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38945640776:android:ec7f6d346f79b33dbee37d",
+        "android_client_info": {
+          "package_name": "com.example.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38945640776-ng9pga8vbcdp1ng2lqo141q8q2mpagbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sos",
+            "certificate_hash": "92f0772d9a5643e71c6b7df66559d98022e412c9"
+          }
+        },
+        {
+          "client_id": "38945640776-vddrk8hmt0s0k922uicj89q70ji7h754.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3nva_TFGx7JFEq1uoVjUsd690QImWt0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38945640776-vddrk8hmt0s0k922uicj89q70ji7h754.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
